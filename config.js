@@ -9,7 +9,7 @@ var config = {
   // Uncomment to set the number or process (will use the # of available CPUs by default)
   // clusterInstances: 4,
 
-   https: true,
+   https: false,
    privateKeyFile: 'private.pem',
    certificateFile: 'cert.pem',
   ////// The following is only for certs which are not
